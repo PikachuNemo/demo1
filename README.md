@@ -1,2 +1,3 @@
 # Demonstration
-this is the first line
+This is the first modified line.
+Have a great day!
